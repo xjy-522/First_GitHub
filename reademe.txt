@@ -6,5 +6,6 @@ Gitt  tracks changes of files.
 my stupid boss still prefers SVN.
 Creating aa new branch is quick.
 
-hahahha,,,dada
+
 Creating a new branch is quick and simple.
+Creating one more branch .
